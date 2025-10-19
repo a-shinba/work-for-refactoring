@@ -1,0 +1,70 @@
+#a1 {
+width: 100%;
+height: 100vh;
+background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1, #96ceb4);
+padding: 0;
+margin: 0;
+}
+#b2 {
+background: white;
+padding: 10px;
+border-bottom: 3px solid #333;
+}
+#b2 button {
+background: #4CAF50;
+color: white;
+border: none;
+padding: 10px 20px;
+margin-right: 5px;
+cursor: pointer;
+font-size: 16px;
+}
+#b2 button:hover {
+background: #45a049;
+}
+#c3 {
+float: right;
+font-weight: bold;
+font-size: 18px;
+margin-top: 10px;
+}
+#d4 {
+width: calc(100% - 40px);
+height: 400px;
+margin: 20px;
+padding: 15px;
+font-size: 16px;
+border: 2px solid #ddd;
+border-radius: 5px;
+font-family: 'Arial', sans-serif;
+resize: none;
+}
+#e5 {
+background: white;
+padding: 15px 20px;
+margin: 0 20px;
+border-radius: 5px;
+display: flex;
+justify-content: space-between;
+}
+#f6 {
+font-size: 14px;
+color: #666;
+}
+#g7 {
+padding: 5px 10px;
+font-size: 16px;
+border: 2px solid #ddd;
+border-radius: 3px;
+}
+#e5 button {
+background: #f44336;
+color: white;
+border: none;
+padding: 8px 15px;
+cursor: pointer;
+border-radius: 3px;
+}
+#e5 button:hover {
+background: #da190b;
+}
